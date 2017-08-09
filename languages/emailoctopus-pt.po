@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: EmailOctopus\n"
+"POT-Creation-Date: 2016-10-11 14:19+0100\n"
+"PO-Revision-Date: 2016-10-11 14:22+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: emailoctopus.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: pt\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Plugin Name of the plugin/theme
+#. Author of the plugin/theme
+#: emailoctopus.php:56
+msgid "EmailOctopus"
+msgstr "EmailOctopus"
+
+#: emailoctopus.php:60
+msgid "A form for subscribing to an EmailOctopus list."
+msgstr "Um formulário para subscrever uma lista de EmailOctopus."
+
+#: emailoctopus.php:278
+msgid "Thanks for subscribing!"
+msgstr "¡Gracias por suscribirse!"
+
+#: emailoctopus.php:279
+msgid "Your email address is required."
+msgstr "Seu endereço de email é obrigatório."
+
+#: emailoctopus.php:280
+msgid "Your email address looks incorrect, please try again."
+msgstr "Seu endereço de email parece incorrecto, por favor tente novamente."
+
+#: emailoctopus.php:281
+msgid "This doesn't look like a human submission."
+msgstr "Isto não se parece com uma submissão humana."
+
+#: emailoctopus.php:282
+msgid "This form has missing or invalid fields."
+msgstr "Este formulário possui campos ausentes ou inválidos."
+
+#: emailoctopus.php:283
+msgid "Sorry, an unknown error has occurred. Please try again later."
+msgstr ""
+"Desculpe, ocorreu um erro ao enviar o formulário. Por favor, tente novamente "
+"mais tarde."
+
+#: views/admin.php:2 views/widget.php:2
+msgid "Subscribe to my list"
+msgstr "Subscreva a minha lista"
+
+#: views/admin.php:13
+msgid "List ID"
+msgstr "Lista ID"
+
+#: views/admin.php:17
+msgid "Title"
+msgstr "Título"
+
+#: views/admin.php:22
+msgid "Include optional name fields"
+msgstr "Incluir os campos de nome opcional"
+
+#: views/admin.php:26
+msgid "Include referral link"
+msgstr "Incluir o link de referência"
+
+#: views/admin.php:30
+msgid "Instead of thanking the user for subscribing, redirect them to a URL"
+msgstr ""
+"Em vez de agradecer o usuário por subscrever, redirecioná-los para uma URL"
+
+#: views/widget.php:12
+msgid ""
+"Before you can use the EmailOctopus widget, you need to provide a valid list "
+"for it to connect to."
+msgstr ""
+"Antes de usar o widget EmailOctopus, você precisa fornecer uma lista válida "
+"para que se conectem."
+
+#: views/widget.php:14
+msgid ""
+"Take a look at the <a href=\"https://wordpress.org/plugins/emailoctopus/"
+"installation/\" target=\"_blank\">installation page</a> for more information."
+msgstr ""
+"Dê uma olhada na <a href=\"https://wordpress.org/plugins/emailoctopus/"
+"installation/\" target=\"_blank\">página de instalação</a> para obter mais "
+"informações."
+
+#: views/widget.php:34
+msgid "Email address (required)"
+msgstr "E-mail (obrigatório)"
+
+#: views/widget.php:41
+msgid "First name"
+msgstr "Primeiro Nome"
+
+#: views/widget.php:45
+msgid "Last name"
+msgstr "Último nome"
+
+#: views/widget.php:57
+msgid "Subscribe"
+msgstr "Assinar"
+
+#: views/widget.php:65
+msgid "Powered by <a href=\"https://emailoctopus.com?utm_source=form&utm_medium=wordpress_plugin\">EmailOctopus</a>"
+msgstr "Distribuído por <a href=\"https://emailoctopus.com?utm_source=form&utm_medium=wordpress_plugin\">EmailOctopus</a>"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://emailoctopus.com"
+msgstr "https://emailoctopus.com"
+
+#. Description of the plugin/theme
+msgid ""
+"Adds a customisable form widget connected to EmailOctopus, allowing visitors "
+"to subscribe to a list."
+msgstr ""
+"Adiciona um widget de forma personalizável ligado a EmailOctopus, permitindo "
+"que os visitantes assinar uma lista."

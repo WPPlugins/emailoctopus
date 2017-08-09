@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: EmailOctopus\n"
+"POT-Creation-Date: 2016-10-11 14:18+0100\n"
+"PO-Revision-Date: 2016-10-11 14:19+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: emailoctopus.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: zh\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Plugin Name of the plugin/theme
+#. Author of the plugin/theme
+#: emailoctopus.php:56
+msgid "EmailOctopus"
+msgstr "EmailOctopus"
+
+#: emailoctopus.php:60
+msgid "A form for subscribing to an EmailOctopus list."
+msgstr "用于订阅 EmailOctopus 列表的表单。"
+
+#: emailoctopus.php:278
+msgid "Thanks for subscribing!"
+msgstr "订阅成功棒棒哒"
+
+#: emailoctopus.php:279
+msgid "Your email address is required."
+msgstr "需要一個有效的電子郵件"
+
+#: emailoctopus.php:280
+msgid "Your email address looks incorrect, please try again."
+msgstr "您的电子邮件地址看起来不正确，请再试一次。"
+
+#: emailoctopus.php:281
+msgid "This doesn't look like a human submission."
+msgstr "这看起来不像人类的提交。"
+
+#: emailoctopus.php:282
+msgid "This form has missing or invalid fields."
+msgstr "这种形式已丢失或无效字段。"
+
+#: emailoctopus.php:283
+msgid "Sorry, an unknown error has occurred. Please try again later."
+msgstr "發生錯誤。請稍後重試。"
+
+#: views/admin.php:2 views/widget.php:2
+msgid "Subscribe to my list"
+msgstr "订阅我的列表"
+
+#: views/admin.php:13
+msgid "List ID"
+msgstr "列表ID"
+
+#: views/admin.php:17
+msgid "Title"
+msgstr "标题"
+
+#: views/admin.php:22
+msgid "Include optional name fields"
+msgstr "包括可选名称字段"
+
+#: views/admin.php:26
+msgid "Include referral link"
+msgstr "包括的推荐链接"
+
+#: views/admin.php:30
+msgid "Instead of thanking the user for subscribing, redirect them to a URL"
+msgstr "而不是感谢订阅用户，他们重定向到的 URL"
+
+#: views/widget.php:12
+msgid ""
+"Before you can use the EmailOctopus widget, you need to provide a valid list "
+"for it to connect to."
+msgstr ""
+"你可以使用 EmailOctopus 小部件之前，您需要提供一个有效的列表，它连接到。"
+
+#: views/widget.php:14
+msgid ""
+"Take a look at the <a href=\"https://wordpress.org/plugins/emailoctopus/"
+"installation/\" target=\"_blank\">installation page</a> for more information."
+msgstr ""
+"看看<a href=\"https://wordpress.org/plugins/emailoctopus/installation/\" "
+"target=\"_blank\">安装页面</a>的详细信息。"
+
+#: views/widget.php:34
+msgid "Email address (required)"
+msgstr "E-mail地址（必填）"
+
+#: views/widget.php:41
+msgid "First name"
+msgstr "名字"
+
+#: views/widget.php:45
+msgid "Last name"
+msgstr "姓"
+
+#: views/widget.php:57
+msgid "Subscribe"
+msgstr "订阅"
+
+#: views/widget.php:65
+msgid "Powered by <a href=\"https://emailoctopus.com?utm_source=form&utm_medium=wordpress_plugin\">EmailOctopus</a>"
+msgstr "由<a href=\"https://emailoctopus.com?utm_source=form&utm_medium=wordpress_plugin\">EmailOctopus</a>提供动力"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://emailoctopus.com"
+msgstr "https://emailoctopus.com"
+
+#. Description of the plugin/theme
+msgid ""
+"Adds a customisable form widget connected to EmailOctopus, allowing visitors "
+"to subscribe to a list."
+msgstr "添加连接到 EmailOctopus，允许访问者订阅列表可定制表单小部件。"

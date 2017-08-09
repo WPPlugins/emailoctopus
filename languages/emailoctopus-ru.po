@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Project-Id-Version: EmailOctopus\n"
+"POT-Creation-Date: 2016-10-11 14:26+0100\n"
+"PO-Revision-Date: 2016-10-11 14:26+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: emailoctopus.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Plugin Name of the plugin/theme
+#. Author of the plugin/theme
+#: emailoctopus.php:56
+msgid "EmailOctopus"
+msgstr "EmailOctopus"
+
+#: emailoctopus.php:60
+msgid "A form for subscribing to an EmailOctopus list."
+msgstr "Форма для подписки на список EmailOctopus."
+
+#: emailoctopus.php:278
+msgid "Thanks for subscribing!"
+msgstr "Спасибо за подписку!"
+
+#: emailoctopus.php:279
+msgid "Your email address is required."
+msgstr "Почтовый адрес (email) необходим"
+
+#: emailoctopus.php:280
+msgid "Your email address looks incorrect, please try again."
+msgstr "Ваш адрес электронной почты выглядит неправильно, попробуйте еще раз."
+
+#: emailoctopus.php:281
+msgid "This doesn't look like a human submission."
+msgstr "Это не выглядит как человеческое представление."
+
+#: emailoctopus.php:282
+msgid "This form has missing or invalid fields."
+msgstr "Эта форма содержит отсутствующие или недопустимые поля."
+
+#: emailoctopus.php:283
+msgid "Sorry, an unknown error has occurred. Please try again later."
+msgstr ""
+"К сожалению, произошла неизвестная ошибка. Пожалуйста, повторите попытку "
+"позже."
+
+#: views/admin.php:2 views/widget.php:2
+msgid "Subscribe to my list"
+msgstr "Подписаться на мой список"
+
+#: views/admin.php:13
+msgid "List ID"
+msgstr "ID рассылки"
+
+#: views/admin.php:17
+msgid "Title"
+msgstr "Заголовок"
+
+#: views/admin.php:22
+msgid "Include optional name fields"
+msgstr "Включает необязательное имя поля"
+
+#: views/admin.php:26
+msgid "Include referral link"
+msgstr "Включить ссылку"
+
+#: views/admin.php:30
+msgid "Instead of thanking the user for subscribing, redirect them to a URL"
+msgstr ""
+"Вместо того, чтобы поблагодарить пользователя за подписку, перенаправьте их "
+"на URL-адрес"
+
+#: views/widget.php:12
+msgid ""
+"Before you can use the EmailOctopus widget, you need to provide a valid list "
+"for it to connect to."
+msgstr ""
+"Перед тем, как вы можете использовать виджет EmailOctopus, необходимо "
+"предоставить допустимый список для того, чтобы подключиться к."
+
+#: views/widget.php:14
+msgid ""
+"Take a look at the <a href=\"https://wordpress.org/plugins/emailoctopus/"
+"installation/\" target=\"_blank\">installation page</a> for more information."
+msgstr ""
+"Взгляните на <a href=\"https://wordpress.org/plugins/emailoctopus/"
+"installation/\" target=\"_blank\">страницу установки</a> для получения "
+"дополнительной информации."
+
+#: views/widget.php:34
+msgid "Email address (required)"
+msgstr "Email (рекомендуется)"
+
+#: views/widget.php:41
+msgid "First name"
+msgstr "имя"
+
+#: views/widget.php:45
+msgid "Last name"
+msgstr "Фамилия"
+
+#: views/widget.php:57
+msgid "Subscribe"
+msgstr "подписывать"
+
+#: views/widget.php:65
+msgid "Powered by <a href=\"https://emailoctopus.com?utm_source=form&utm_medium=wordpress_plugin\">EmailOctopus</a>"
+msgstr "Питание от <a href=\"https://emailoctopus.com?utm_source=form&utm_medium=wordpress_plugin\">EmailOctopus</a>"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://emailoctopus.com"
+msgstr "https://emailoctopus.com"
+
+#. Description of the plugin/theme
+msgid ""
+"Adds a customisable form widget connected to EmailOctopus, allowing visitors "
+"to subscribe to a list."
+msgstr ""
+"Добавляет настраиваемые формы виджет подключен к EmailOctopus, что позволяет "
+"посетителям подписаться на список."
